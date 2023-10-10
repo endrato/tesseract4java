@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.twelvemonkeys.imageio</groupId>
             <artifactId>imageio-tiff</artifactId>
-            <version>3.4.1</version>
+            <version>3.9.4</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
