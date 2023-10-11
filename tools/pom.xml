@@ -25,7 +25,7 @@
         <dependency>
             <groupId>net.imagej</groupId>
             <artifactId>ij</artifactId>
-            <version>1.52h</version>
+            <version>1.54f</version>
         </dependency>
         <dependency>
             <groupId>de.biomedical-imaging.ij</groupId>
